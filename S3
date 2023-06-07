@@ -1,0 +1,19 @@
+1) Amazon Simple Storage Service (Amazon S3) is an object storage service that offers industry-leading scalability, data availability, security, and performance.
+2) Focused on general object storage on the cloud
+3) It can be stores big files, small files, media content, source code, meta data, spread sheets, etc.. up to max 5TB a single object with minimum cost.
+4) Scalable, Highly Available, Durable, Supports integration with AWS.
+5) Useful in variety of contexts:
+      i)   Website hosting
+      ii)  Database backups
+      iii) Data processing pipelines
+
+Bucket: A bucket is a container for objects stored in Amazon S3. You can store any number of objects in a bucket and can have up to 100 buckets in your account as default.
+-------
+By Url: http://s3.amazonaws.com/<Bucket_Name>/<Object_Name>
+
+Storage classes:
+----------------
+Amazon S3 offers a range of storage classes designed for different use cases. For example, you can store mission-critical production data in S3 Standard for frequent access, save costs by storing infrequently accessed data in S3 Standard-IA or S3 One Zone-IA, and archive data at the lowest costs in S3 Glacier Instant Retrieval, S3 Glacier Flexible Retrieval, and S3 Glacier Deep Archive.
+
+
+
